@@ -58,19 +58,19 @@ header{
 }
 .header-link,
 .header-link:focus{
-  font-size: 5rem;
+  font-size: 7rem;
   color:aliceblue;
   text-decoration: none;
   background-color: rgb(48, 16, 99);
   padding: 1rem 2rem;
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.726);
-  margin-left: 50rem;
+  margin-left: 20rem;
   transition: all .5s ease-in-out;
 }
 
 .header-link:hover,
 .header-link:active {
-  font-size: 7rem;
+  font-size: 9rem;
 
 }
 main{
