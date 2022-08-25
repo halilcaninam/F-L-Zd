@@ -64,7 +64,7 @@ header{
   background-color: rgb(48, 16, 99);
   padding: 1rem 2rem;
   box-shadow: 0 2rem 4rem rgba(0, 0, 0, 0.726);
-  margin-left: 80rem;
+  margin-left: 50rem;
   transition: all .5s ease-in-out;
 }
 
@@ -97,7 +97,7 @@ video{
 
 }
 .hikaye-başlık{
-  font-size: 19rem;
+  font-size: 17rem;
   text-align: center;
   color: #2c1679;
   margin-bottom: 20rem;
